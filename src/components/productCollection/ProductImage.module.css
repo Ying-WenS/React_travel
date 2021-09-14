@@ -1,0 +1,10 @@
+.bigImg {
+  width: 100%;
+  /* height: 150%; */
+  padding-right: 3%;
+}
+.smallImg {
+  width: 100%;
+  height: 120px;
+  padding-right: 3%;
+}

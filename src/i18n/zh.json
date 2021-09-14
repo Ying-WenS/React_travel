@@ -1,0 +1,38 @@
+{
+    "header": {
+        "slogan": "讓旅行更幸福",
+        "add_new_language": "添加新語言",
+        "title": "React 旅遊網",
+        "register":"註冊",
+        "signin":"登入",
+        "home_page": "旅遊首页",
+        "weekend": "輕旅行",
+        "group": "跟團遊",
+        "backpack": "自由行",
+        "private": "私人團",
+        "cruise": "豪華郵輪",
+        "hotel": "酒店+景点",
+        "local": "當地旅遊",
+        "theme": "主题遊",
+        "custom": "客製旅遊",
+        "study": "海外遊學",
+        "visa":"簽證",
+        "enterprise":"公司旅遊",
+        "high_end":"高端遊",
+        "outdoor":"戶外遊",
+        "insurance":"保險",
+        "shoppingCart": "購物車",
+        "signOut": "登出",
+        "welcome": "歡迎回來！"
+    },
+    "footer": {
+        "detail" : "版權所有 @ React 旅遊網"
+    },
+    "home_page": {
+        "hot_recommended": "爆款推薦",
+        "new_arrival": "新品上市",
+        "domestic_travel": "國內旅遊推薦",
+        "joint_venture": "合作企業",
+        "start_from": "(起)"
+    }
+}
